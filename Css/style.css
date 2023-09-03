@@ -1,0 +1,14 @@
+div{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    margin: 30px;
+
+}
+
+.font{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+}
